@@ -1,9 +1,7 @@
-# Recipe-Finder
+# Recipe-Finder Local Host Version
 A simple web application to search recipes based on ingredients, save favorites, and explore meals. Built with PHP, MySQL, HTML/CSS, and JavaScript.
 
-Hosting: InfinityFree (for online version)
-https://yashpandey.infinityfreeapp.com/login.php
-
+for Hosted one check my other repo : https://github.com/Yash-36-p/Hosted-Recipe-Finder.git
 Features
 
 Search recipes by ingredients.
